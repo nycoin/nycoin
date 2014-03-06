@@ -1,0 +1,2 @@
+obj/version.o: version.cpp version.h /root/newyorkc/src/obj/build.h
+version.cpp version.h /root/newyorkc/src/obj/build.h :

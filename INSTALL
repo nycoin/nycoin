@@ -1,0 +1,9 @@
+Building newyorkc
+
+See doc/readme-qt.rst for instructions on building newyorkc-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of newyorkc.
+
+See doc/build-*.txt for instructions on building newyorkcd,
+the intended-for-services, no-graphical-interface, reference
+implementation of newyorkc.
